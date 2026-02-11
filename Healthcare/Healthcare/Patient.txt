@@ -1,5 +1,0 @@
-pt1,John,Doe,30,M,704567890
-pt2,Jane,Smith,18,F,816543210
-pt3,Michael,Johnson,50,M,761234567
-pt4,Emily,Davis,25,F,702345678
-pt5,James,Wilson,60,M,813456789

@@ -1,0 +1,5 @@
+BR001,2000,pt1,true
+BR002,2000,pt2,false
+BR003,1200,pt3,true
+BR004,2000,pt4,true
+BR005,1800,pt5,false

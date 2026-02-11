@@ -1,0 +1,5 @@
+nr1,Nancy,Allen,29,F,708889999
+nr2,Tom,Johnson,35,M,710002222
+nr3,Olivia,Miller,40,F,815557777
+nr4,Daniel,Garcia,38,M,766668888
+nr5,Isabella,Martinez,26,F,704443333

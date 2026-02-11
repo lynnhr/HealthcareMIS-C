@@ -1,6 +1,0 @@
-MR008,headache,panadol,pt2
-MR001,headache,panadol,pt5
-MR002,Flu,Rest,pt2
-MR003,Fractured leg,Cast,pt3
-MR005,Grippe,panadol,pt1
-MR007,flu,solpadeine,pt1
